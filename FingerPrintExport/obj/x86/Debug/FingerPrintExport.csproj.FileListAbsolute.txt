@@ -1,0 +1,10 @@
+E:\DULCE PROJECTS\_APPS FOR INTERNAL USE\FingerPrintExport\FingerPrintExport\bin\Debug\FingerPrintExport.exe.config
+E:\DULCE PROJECTS\_APPS FOR INTERNAL USE\FingerPrintExport\FingerPrintExport\bin\Debug\FingerPrintExport.exe
+E:\DULCE PROJECTS\_APPS FOR INTERNAL USE\FingerPrintExport\FingerPrintExport\bin\Debug\FingerPrintExport.pdb
+E:\DULCE PROJECTS\_APPS FOR INTERNAL USE\FingerPrintExport\FingerPrintExport\obj\x86\Debug\FingerPrintExport.Form1.resources
+E:\DULCE PROJECTS\_APPS FOR INTERNAL USE\FingerPrintExport\FingerPrintExport\obj\x86\Debug\FingerPrintExport.Properties.Resources.resources
+E:\DULCE PROJECTS\_APPS FOR INTERNAL USE\FingerPrintExport\FingerPrintExport\obj\x86\Debug\FingerPrintExport.csproj.GenerateResource.Cache
+E:\DULCE PROJECTS\_APPS FOR INTERNAL USE\FingerPrintExport\FingerPrintExport\obj\x86\Debug\FingerPrintExport.exe
+E:\DULCE PROJECTS\_APPS FOR INTERNAL USE\FingerPrintExport\FingerPrintExport\obj\x86\Debug\FingerPrintExport.pdb
+E:\DULCE PROJECTS\_APPS FOR INTERNAL USE\FingerPrintExport\FingerPrintExport\obj\x86\Debug\FingerPrintExport.csprojResolveAssemblyReference.cache
+E:\DULCE PROJECTS\_APPS FOR INTERNAL USE\FingerPrintExport\FingerPrintExport\obj\x86\Debug\FingerPrintExport.amputeeInsert.resources
